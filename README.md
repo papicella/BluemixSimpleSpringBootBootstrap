@@ -11,4 +11,8 @@ in the org "pasapi@au1.ibm.com" using the space "dev".
 
 The application is called "BluemixSimpleSpringBootBootstrap"
 
+The IBM DevOps project which is linked to this GitHub repo is as follows
+
+https://hub.jazz.net/project/pasapples/BluemixSimpleSpringBootBootstrap/overview
+
 Pas Apicella [pasapi at au1.ibm.com] is a Bluemix Technical Specialist at IBM Australia
