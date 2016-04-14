@@ -23,5 +23,6 @@ public class BluemixDemoApplication {
         repository.save(new Employee("lucia", "apicella"));
         repository.save(new Employee("lucas", "apicella"));
         repository.save(new Employee("siena", "apicella"));
+        repository.save(new Employee("byron", "holder"));
     }
 }
